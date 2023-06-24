@@ -2,20 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-/* basicInfo: "Basic Info",
-        workExp: "Work Experience",
-        Project:"Projects",
-        Education:"Education",
-        achievement:"Achievements",
-        summary:"Summary",
-        other:"Other" */
-.active{
-  color:#0bc5ea;
-  cursor: pointer;
-  
-  text-decoration-color: #0bc5ea;
+.activetext{
+  color: #0bc5ea,
 }
-.active-bg{
+.activebg{
   background-color: #0bc5ea;
-  height: 3px;
 }
